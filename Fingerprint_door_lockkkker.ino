@@ -2,7 +2,7 @@
 #include <Servo.h>
 Servo myservo;
 int pos = 0;
-pinMode (13,OUTPUT);
+
 
 
 #if ((defined ARDUINO_AVR_UNO) || (defined ARDUINO_AVR_NANO))
